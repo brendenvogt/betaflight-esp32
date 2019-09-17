@@ -1,0 +1,17 @@
+eclipse.preferences.version=1
+environment/project/0.1588977203/IDF_PATH/delimiter=\:
+environment/project/0.1588977203/IDF_PATH/operation=append
+environment/project/0.1588977203/IDF_PATH/value=/Users/brendenvogt/esp/esp-idf
+environment/project/0.1588977203/PATH/delimiter=\:
+environment/project/0.1588977203/PATH/operation=replace
+environment/project/0.1588977203/PATH/value=${PATH}\:/Users/brendenvogt/esp/xtensa-esp32-elf/bin
+environment/project/0.1588977203/append=true
+environment/project/0.1588977203/appendContributed=true
+environment/project/0.270582066/IDF_PATH/delimiter=\:
+environment/project/0.270582066/IDF_PATH/operation=replace
+environment/project/0.270582066/IDF_PATH/value=/Users/brendenvogt/esp/esp-idf
+environment/project/0.270582066/PATH/delimiter=\:
+environment/project/0.270582066/PATH/operation=replace
+environment/project/0.270582066/PATH/value=/Users/brendenvogt/Sources/mongodb/bin\:/Users/brendenvogt/Sources/anaconda/envs/p3/bin\:/usr/local/bin\:/usr/bin\:/bin\:/usr/sbin\:/sbin\:/usr/local/share/dotnet\:~/.dotnet/tools\:/Library/Frameworks/Mono.framework/Versions/Current/Commands\:/Applications/Wireshark.app/Contents/MacOS\:/Applications/Xamarin Workbooks.app/Contents/SharedSupport/path-bin\:/Users/brendenvogt/.mos/bin\:/Users/brendenvogt/esp/xtensa-esp32-elf/bin
+environment/project/0.270582066/append=true
+environment/project/0.270582066/appendContributed=true
