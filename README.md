@@ -1,1 +1,1 @@
-Esp32 Firmware for Experimental Betaflight Configurator Chrome App 
+Esp32 Firmware for Experimental Betaflight Configurator Chrome App.
